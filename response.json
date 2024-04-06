@@ -1,0 +1,3855 @@
+{
+    "code": 200,
+    "subcode": 1,
+    "status": "ok",
+    "product_list": [
+        {
+            "goodsid": "com.netease.sky.SNC67",
+            "platform": "ios",
+            "goodsinfo": "奉献斗篷礼包",
+            "price": 98,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC67"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC74",
+            "platform": "ios",
+            "goodsinfo": "祥云瑞气纸伞礼包",
+            "price": 98,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC74"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC115",
+            "platform": "ad",
+            "goodsinfo": "大耳狗服饰礼包",
+            "price": 98,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "huawei": "SNC115",
+                "netease": "SNC115"
+            },
+            "channel_goodstypes": {
+                "huawei": 0,
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.CDL5",
+            "platform": "ios",
+            "goodsinfo": "亲密无间礼包",
+            "price": 30,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.CDL5"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 15,
+            "free_yuanbao": 2,
+            "extra": {}
+        },
+        {
+            "goodsid": "NC39",
+            "platform": "ad",
+            "goodsinfo": "冥龙南瓜礼包",
+            "price": 12,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "NC39"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC106",
+            "platform": "ad",
+            "goodsinfo": "浪漫流星斗篷礼包",
+            "price": 118,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "huawei": "SNC106",
+                "netease": "SNC106"
+            },
+            "channel_goodstypes": {
+                "huawei": 0,
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC114",
+            "platform": "ad",
+            "goodsinfo": "迷你大耳狗发饰礼包",
+            "price": 45,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "huawei": "SNC114",
+                "netease": "SNC114"
+            },
+            "channel_goodstypes": {
+                "huawei": 0,
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "NC15",
+            "platform": "ad",
+            "goodsinfo": "蛛网斗篷",
+            "price": 98,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "NC15"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC79",
+            "platform": "ios",
+            "goodsinfo": "优雅领巾礼包",
+            "price": 30,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC79"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC44",
+            "platform": "ad",
+            "goodsinfo": "鲤跃龙门礼包",
+            "price": 128,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "SNC44"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SPASSQP3",
+            "platform": "ad",
+            "goodsinfo": "礼遇卡分享包预购",
+            "price": 128,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "SPASSQP3"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.NC00",
+            "platform": "ios",
+            "goodsinfo": "创始人礼包",
+            "price": 30,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.NC00"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 15,
+            "free_yuanbao": 4,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.NC13",
+            "platform": "ios",
+            "goodsinfo": "灯笼礼包",
+            "price": 98,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.NC13"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.NC34",
+            "platform": "ios",
+            "goodsinfo": "贝壳发夹礼包",
+            "price": 6,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.NC34"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC61",
+            "platform": "ios",
+            "goodsinfo": "皮皮猫装扮礼包",
+            "price": 128,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC61"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SPASSQP3",
+            "platform": "ios",
+            "goodsinfo": "礼遇卡分享包预购",
+            "price": 128,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SPASSQP3"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC83",
+            "platform": "ad",
+            "goodsinfo": "自然之声礼包",
+            "price": 30,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "SNC83"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC64",
+            "platform": "ad",
+            "goodsinfo": "奔离远行发型礼包",
+            "price": 18,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "SNC64"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC115",
+            "platform": "ios",
+            "goodsinfo": "大耳狗服饰礼包",
+            "price": 98,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC115"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SPASSQR",
+            "platform": "ios",
+            "goodsinfo": "奇妙礼遇卡预购",
+            "price": 68,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SPASSQR"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SPASSR",
+            "platform": "ios",
+            "goodsinfo": "奇妙礼遇卡",
+            "price": 68,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SPASSR"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC108",
+            "platform": "ad",
+            "goodsinfo": "异彩莲花斗篷礼包",
+            "price": 128,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "huawei": "SNC108",
+                "netease": "SNC108"
+            },
+            "channel_goodstypes": {
+                "huawei": 0,
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC43",
+            "platform": "ad",
+            "goodsinfo": "年年有鱼礼包",
+            "price": 12,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "SNC43"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC59",
+            "platform": "ios",
+            "goodsinfo": "篝火点心礼包",
+            "price": 128,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC59"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC1007",
+            "platform": "ad",
+            "goodsinfo": "肯德基联动礼包",
+            "price": 128,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "huawei": "SNC1007",
+                "netease": "SNC1007"
+            },
+            "channel_goodstypes": {
+                "huawei": 0,
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.NC21",
+            "platform": "ios",
+            "goodsinfo": "新春福娃礼包",
+            "price": 168,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.NC21"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC91",
+            "platform": "ios",
+            "goodsinfo": "阔腿牛仔裤礼包",
+            "price": 68,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC91"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SCDL5",
+            "platform": "ad",
+            "goodsinfo": "奇妙之旅蜡烛礼包",
+            "price": 30,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "SCDL5"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC95",
+            "platform": "ad",
+            "goodsinfo": "玉兔拖鞋礼包",
+            "price": 45,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "huawei": "SNC95",
+                "netease": "SNC95"
+            },
+            "channel_goodstypes": {
+                "huawei": 0,
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.GC01",
+            "platform": "ios",
+            "goodsinfo": "苹果礼包码",
+            "price": 0,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.GC01"
+            },
+            "channel_goodstypes": {
+                "app_store": 4
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "NC17",
+            "platform": "ad",
+            "goodsinfo": "圣诞鹿角礼包",
+            "price": 98,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "com.netease.sky.NC17"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC66",
+            "platform": "ios",
+            "goodsinfo": "致爱装扮礼包",
+            "price": 68,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC66"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC108",
+            "platform": "ios",
+            "goodsinfo": "异彩莲花斗篷礼包",
+            "price": 128,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC108"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC40",
+            "platform": "ios",
+            "goodsinfo": "冰雪水晶球礼包",
+            "price": 68,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC40"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC89",
+            "platform": "ios",
+            "goodsinfo": "夏日冲浪礼包",
+            "price": 98,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC89"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "NC18",
+            "platform": "ad",
+            "goodsinfo": "暖冬瑞雪礼包",
+            "price": 98,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "NC18"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC101",
+            "platform": "ad",
+            "goodsinfo": "雪人暖心靴礼包",
+            "price": 45,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "huawei": "SNC101",
+                "netease": "SNC101"
+            },
+            "channel_goodstypes": {
+                "huawei": 0,
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "NC23",
+            "platform": "ad",
+            "goodsinfo": "花憩茶桌礼包",
+            "price": 128,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "NC23"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 35,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC79",
+            "platform": "ad",
+            "goodsinfo": "优雅领巾礼包",
+            "price": 30,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "SNC79"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC98",
+            "platform": "ad",
+            "goodsinfo": "吸蟹伯爵斗篷礼包",
+            "price": 98,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "huawei": "SNC98",
+                "netease": "SNC98"
+            },
+            "channel_goodstypes": {
+                "huawei": 0,
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC1003",
+            "platform": "ios",
+            "goodsinfo": "中国绊爱大铁头礼包",
+            "price": 98,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC1003"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC1003",
+            "platform": "ad",
+            "goodsinfo": "中国绊爱大铁头礼包",
+            "price": 98,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "huawei": "SNC1003",
+                "netease": "SNC1003"
+            },
+            "channel_goodstypes": {
+                "huawei": 0,
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC66",
+            "platform": "ad",
+            "goodsinfo": "致爱装扮礼包",
+            "price": 68,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "SNC66"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC102",
+            "platform": "ad",
+            "goodsinfo": "暖冬夹棉斗篷礼包",
+            "price": 98,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "huawei": "SNC102",
+                "netease": "SNC102"
+            },
+            "channel_goodstypes": {
+                "huawei": 0,
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC46",
+            "platform": "ios",
+            "goodsinfo": "优雅小憩茶桌礼包",
+            "price": 128,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC46"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 35,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC112",
+            "platform": "ad",
+            "goodsinfo": "大耳狗装扮礼包",
+            "price": 98,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "huawei": "SNC112",
+                "netease": "SNC112"
+            },
+            "channel_goodstypes": {
+                "huawei": 0,
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC63",
+            "platform": "ad",
+            "goodsinfo": "星月头冠礼包",
+            "price": 30,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "SNC63"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.NC22",
+            "platform": "ios",
+            "goodsinfo": "情人跷跷板礼包",
+            "price": 128,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.NC22"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC75",
+            "platform": "ios",
+            "goodsinfo": "祥云瑞气服饰礼包",
+            "price": 68,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC75"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "NC34",
+            "platform": "ad",
+            "goodsinfo": "贝壳发夹礼包",
+            "price": 6,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "NC34"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC1006",
+            "platform": "ad",
+            "goodsinfo": "古典音乐桌椅礼包",
+            "price": 128,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "huawei": "SNC1006",
+                "netease": "SNC1006"
+            },
+            "channel_goodstypes": {
+                "huawei": 0,
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC74",
+            "platform": "ad",
+            "goodsinfo": "祥云瑞气纸伞礼包",
+            "price": 98,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "SNC74"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC103",
+            "platform": "ios",
+            "goodsinfo": "龙鳞束身长袍礼包",
+            "price": 68,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC103"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC49",
+            "platform": "ios",
+            "goodsinfo": "彩虹耳饰礼包",
+            "price": 18,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC49"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "NC13",
+            "platform": "ad",
+            "goodsinfo": "灯笼礼包",
+            "price": 98,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "com.netease.sky.NC13"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC60",
+            "platform": "ios",
+            "goodsinfo": "水母肩饰",
+            "price": 18,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC60"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC93",
+            "platform": "ad",
+            "goodsinfo": "时尚爱心墨镜礼包",
+            "price": 30,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "huawei": "SNC93",
+                "netease": "SNC93"
+            },
+            "channel_goodstypes": {
+                "huawei": 0,
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC80",
+            "platform": "ios",
+            "goodsinfo": "野餐礼包",
+            "price": 128,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC80"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "NC22",
+            "platform": "ad",
+            "goodsinfo": "情人跷跷板礼包",
+            "price": 128,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "NC22"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC92",
+            "platform": "ad",
+            "goodsinfo": "时尚火焰墨镜礼包",
+            "price": 18,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "huawei": "SNC92",
+                "netease": "SNC92"
+            },
+            "channel_goodstypes": {
+                "huawei": 0,
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC81",
+            "platform": "ios",
+            "goodsinfo": "园丁装扮礼包",
+            "price": 68,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC81"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.CDL50",
+            "platform": "ios",
+            "goodsinfo": "其乐融融礼包",
+            "price": 328,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.CDL50"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 164,
+            "free_yuanbao": 31,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SCDL5",
+            "platform": "ios",
+            "goodsinfo": "奇妙之旅蜡烛礼包",
+            "price": 30,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SCDL5"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC100",
+            "platform": "ios",
+            "goodsinfo": "文雀装扮礼包",
+            "price": 68,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC100"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "NC36",
+            "platform": "ad",
+            "goodsinfo": "巫树犄角礼包",
+            "price": 68,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "NC36"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC105",
+            "platform": "ad",
+            "goodsinfo": "金鳞耳坠礼包",
+            "price": 12,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "huawei": "SNC105",
+                "netease": "SNC105"
+            },
+            "channel_goodstypes": {
+                "huawei": 0,
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC45",
+            "platform": "ios",
+            "goodsinfo": "情人小船礼包",
+            "price": 128,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC45"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC70",
+            "platform": "ios",
+            "goodsinfo": "风之旅人礼包",
+            "price": 168,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC70"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC100",
+            "platform": "ad",
+            "goodsinfo": "文雀装扮礼包",
+            "price": 68,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "huawei": "SNC100",
+                "netease": "SNC100"
+            },
+            "channel_goodstypes": {
+                "huawei": 0,
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC81",
+            "platform": "ad",
+            "goodsinfo": "园丁装扮礼包",
+            "price": 68,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "SNC81"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.NC19",
+            "platform": "ios",
+            "goodsinfo": "大桔大利礼包",
+            "price": 6,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.NC19"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC1008",
+            "platform": "ios",
+            "goodsinfo": "季节加速礼包",
+            "price": 648,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC1008"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC51",
+            "platform": "ios",
+            "goodsinfo": "凯旋手碟礼包",
+            "price": 128,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC51"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "NC08",
+            "platform": "ad",
+            "goodsinfo": "情人秋千礼包",
+            "price": 128,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "NC08"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "NC28",
+            "platform": "ad",
+            "goodsinfo": "多彩绒绒帽礼包",
+            "price": 68,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "NC28"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC104",
+            "platform": "ad",
+            "goodsinfo": "盘龙围巾斗篷礼包",
+            "price": 98,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "huawei": "SNC104",
+                "netease": "SNC104"
+            },
+            "channel_goodstypes": {
+                "huawei": 0,
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.NC05",
+            "platform": "ios",
+            "goodsinfo": "万圣节礼包",
+            "price": 198,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.NC05"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 20,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC62",
+            "platform": "ios",
+            "goodsinfo": "皮皮猫礼包",
+            "price": 68,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC62"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC69",
+            "platform": "ios",
+            "goodsinfo": "奔离远行服饰礼包",
+            "price": 68,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC69"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "NC20",
+            "platform": "ad",
+            "goodsinfo": "温暖绒帽礼包",
+            "price": 68,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "NC20"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC1008",
+            "platform": "ad",
+            "goodsinfo": "季节加速礼包",
+            "price": 648,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "huawei": "SNC1008",
+                "netease": "SNC1008"
+            },
+            "channel_goodstypes": {
+                "huawei": 0,
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC70",
+            "platform": "ad",
+            "goodsinfo": "风之旅人礼包",
+            "price": 168,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "huawei": "SNC70",
+                "netease": "SNC70"
+            },
+            "channel_goodstypes": {
+                "huawei": 0,
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC88",
+            "platform": "ad",
+            "goodsinfo": "跃动跑鞋礼包",
+            "price": 45,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "huawei": "SNC88",
+                "netease": "SNC88"
+            },
+            "channel_goodstypes": {
+                "huawei": 0,
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC91",
+            "platform": "ad",
+            "goodsinfo": "阔腿牛仔裤礼包",
+            "price": 68,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "huawei": "SNC91",
+                "netease": "SNC91"
+            },
+            "channel_goodstypes": {
+                "huawei": 0,
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.NC11",
+            "platform": "ios",
+            "goodsinfo": "中国绊爱套装礼包",
+            "price": 128,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.NC11"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "NC19",
+            "platform": "ad",
+            "goodsinfo": "大桔大利礼包",
+            "price": 6,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "NC19"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC42",
+            "platform": "ad",
+            "goodsinfo": "雪花发夹礼包",
+            "price": 12,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "SNC42"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC77",
+            "platform": "ios",
+            "goodsinfo": "惊喜手杖礼包",
+            "price": 98,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC77"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.NC15",
+            "platform": "ios",
+            "goodsinfo": "蛛网斗篷",
+            "price": 98,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.NC15"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC86",
+            "platform": "ios",
+            "goodsinfo": "凯旋提琴礼包",
+            "price": 128,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC86"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC96",
+            "platform": "ios",
+            "goodsinfo": "蛛丝斗篷礼包",
+            "price": 98,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC96"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC89",
+            "platform": "ad",
+            "goodsinfo": "夏日冲浪礼包",
+            "price": 98,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "huawei": "SNC89",
+                "netease": "SNC89"
+            },
+            "channel_goodstypes": {
+                "huawei": 0,
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC99",
+            "platform": "ad",
+            "goodsinfo": "飞蛾装扮礼包",
+            "price": 68,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "huawei": "SNC99",
+                "netease": "SNC99"
+            },
+            "channel_goodstypes": {
+                "huawei": 0,
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.NC01",
+            "platform": "ios",
+            "goodsinfo": "蓝斗篷礼包",
+            "price": 198,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.NC01"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 99,
+            "free_yuanbao": 19,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC44",
+            "platform": "ios",
+            "goodsinfo": "鲤跃龙门礼包",
+            "price": 128,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC44"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC40",
+            "platform": "ad",
+            "goodsinfo": "冰雪水晶球礼包",
+            "price": 68,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "SNC40"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC85",
+            "platform": "ios",
+            "goodsinfo": "暗彩装扮礼包",
+            "price": 98,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC85"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC96",
+            "platform": "ad",
+            "goodsinfo": "蛛丝斗篷礼包",
+            "price": 98,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "huawei": "SNC96",
+                "netease": "SNC96"
+            },
+            "channel_goodstypes": {
+                "huawei": 0,
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.CDL",
+            "platform": "ios",
+            "goodsinfo": "志同道合礼包",
+            "price": 6,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.CDL"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 3,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.NC37",
+            "platform": "ios",
+            "goodsinfo": "疯女巫长裙礼包",
+            "price": 68,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.NC37"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC98",
+            "platform": "ios",
+            "goodsinfo": "吸蟹伯爵斗篷礼包",
+            "price": 98,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC98"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC59",
+            "platform": "ad",
+            "goodsinfo": "篝火点心礼包",
+            "price": 128,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "SNC59"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SPASSQR",
+            "platform": "ad",
+            "goodsinfo": "奇妙礼遇卡预购",
+            "price": 68,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "SPASSQR"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.NC23",
+            "platform": "ios",
+            "goodsinfo": "花憩茶桌礼包",
+            "price": 128,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.NC23"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 35,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC41",
+            "platform": "ad",
+            "goodsinfo": "白雪斗篷礼包",
+            "price": 68,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "SNC41"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC107",
+            "platform": "ios",
+            "goodsinfo": "神鹿祝福头饰礼包",
+            "price": 98,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC107"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "CDL5",
+            "platform": "ad",
+            "goodsinfo": "亲密无间礼包",
+            "price": 30,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "CDL5"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 15,
+            "free_yuanbao": 2,
+            "extra": {}
+        },
+        {
+            "goodsid": "NC14",
+            "platform": "ad",
+            "goodsinfo": "女巫帽",
+            "price": 68,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "NC14"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC75",
+            "platform": "ad",
+            "goodsinfo": "祥云瑞气服饰礼包",
+            "price": 68,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "SNC75"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC77",
+            "platform": "ad",
+            "goodsinfo": "惊喜手杖礼包",
+            "price": 98,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "SNC77"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC87",
+            "platform": "ad",
+            "goodsinfo": "周年庆抱枕礼包",
+            "price": 68,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "huawei": "SNC87",
+                "netease": "SNC87"
+            },
+            "channel_goodstypes": {
+                "huawei": 0,
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.NC17",
+            "platform": "ios",
+            "goodsinfo": "圣诞鹿角礼包",
+            "price": 98,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.NC17"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC1002",
+            "platform": "ios",
+            "goodsinfo": "四叶草头饰",
+            "price": 6,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC1002"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC87",
+            "platform": "ios",
+            "goodsinfo": "周年庆抱枕礼包",
+            "price": 68,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC87"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "CDL50",
+            "platform": "ad",
+            "goodsinfo": "其乐融融礼包",
+            "price": 328,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "CDL50"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 164,
+            "free_yuanbao": 31,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC107",
+            "platform": "ad",
+            "goodsinfo": "神鹿祝福头饰礼包",
+            "price": 98,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "huawei": "SNC107",
+                "netease": "SNC107"
+            },
+            "channel_goodstypes": {
+                "huawei": 0,
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SPASSG",
+            "platform": "ad",
+            "goodsinfo": "礼遇卡赠卡",
+            "price": 68,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "SPASSG"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.NC35",
+            "platform": "ios",
+            "goodsinfo": "玉兔礼包",
+            "price": 18,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.NC35"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC41",
+            "platform": "ios",
+            "goodsinfo": "白雪斗篷礼包",
+            "price": 68,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC41"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC54",
+            "platform": "ios",
+            "goodsinfo": "周年庆电吉他礼包",
+            "price": 198,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC54"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 99,
+            "free_yuanbao": 16,
+            "extra": {}
+        },
+        {
+            "goodsid": "NC33",
+            "platform": "ad",
+            "goodsinfo": "夏日阳伞礼包",
+            "price": 128,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "NC33"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC1002",
+            "platform": "ad",
+            "goodsinfo": "四叶草头饰",
+            "price": 6,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "SNC1002"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.NC38",
+            "platform": "ios",
+            "goodsinfo": "蛛网朋克礼包",
+            "price": 30,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.NC38"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "CDL",
+            "platform": "ad",
+            "goodsinfo": "志同道合礼包",
+            "price": 6,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "CDL"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 3,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC86",
+            "platform": "ad",
+            "goodsinfo": "凯旋提琴礼包",
+            "price": 128,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "huawei": "SNC86",
+                "netease": "SNC86"
+            },
+            "channel_goodstypes": {
+                "huawei": 0,
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC114",
+            "platform": "ios",
+            "goodsinfo": "迷你大耳狗发饰礼包",
+            "price": 45,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC114"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.NC1001",
+            "platform": "ios",
+            "goodsinfo": "清香粽叶礼包",
+            "price": 98,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.NC1001"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 15,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "NC38",
+            "platform": "ad",
+            "goodsinfo": "蛛网朋克礼包",
+            "price": 30,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "NC38"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.NC39",
+            "platform": "ios",
+            "goodsinfo": "冥龙南瓜礼包",
+            "price": 12,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.NC39"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC95",
+            "platform": "ios",
+            "goodsinfo": "玉兔拖鞋礼包",
+            "price": 45,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC95"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SPASSG",
+            "platform": "ios",
+            "goodsinfo": "礼遇卡赠卡",
+            "price": 68,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SPASSG"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "NC21",
+            "platform": "ad",
+            "goodsinfo": "新春福娃礼包",
+            "price": 168,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "NC21"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC58",
+            "platform": "ad",
+            "goodsinfo": "彩虹耳机礼包",
+            "price": 68,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "SNC58"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.NC08",
+            "platform": "ios",
+            "goodsinfo": "情人秋千礼包",
+            "price": 128,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.NC08"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC68",
+            "platform": "ios",
+            "goodsinfo": "欧若拉之翼礼包",
+            "price": 168,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC68"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC109",
+            "platform": "ad",
+            "goodsinfo": "荷叶伞礼包",
+            "price": 98,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "huawei": "SNC109",
+                "netease": "SNC109"
+            },
+            "channel_goodstypes": {
+                "huawei": 0,
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC97",
+            "platform": "ios",
+            "goodsinfo": "吸蟹伯爵面具礼包",
+            "price": 18,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC97"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.NC33",
+            "platform": "ios",
+            "goodsinfo": "夏日阳伞礼包",
+            "price": 128,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.NC33"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC97",
+            "platform": "ad",
+            "goodsinfo": "吸蟹伯爵面具礼包",
+            "price": 18,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "huawei": "SNC97",
+                "netease": "SNC97"
+            },
+            "channel_goodstypes": {
+                "huawei": 0,
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.NC20",
+            "platform": "ios",
+            "goodsinfo": "温暖绒帽礼包",
+            "price": 68,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.NC20"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC67",
+            "platform": "ad",
+            "goodsinfo": "奉献斗篷礼包",
+            "price": 98,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "SNC67"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC85",
+            "platform": "ad",
+            "goodsinfo": "暗彩装扮礼包",
+            "price": 98,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "huawei": "SNC85",
+                "netease": "SNC85"
+            },
+            "channel_goodstypes": {
+                "huawei": 0,
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SPASSR",
+            "platform": "ad",
+            "goodsinfo": "奇妙礼遇卡",
+            "price": 68,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "SPASSR"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC63",
+            "platform": "ios",
+            "goodsinfo": "星月头冠礼包",
+            "price": 30,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC63"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "NC05",
+            "platform": "ad",
+            "goodsinfo": "万圣节礼包",
+            "price": 198,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "NC05"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 20,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC48",
+            "platform": "ad",
+            "goodsinfo": "海龟斗篷礼包",
+            "price": 98,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "SNC48"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC65",
+            "platform": "ad",
+            "goodsinfo": "欧若拉之声",
+            "price": 98,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "SNC65"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC56",
+            "platform": "ios",
+            "goodsinfo": "音韵吉他礼包",
+            "price": 98,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC56"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "NC35",
+            "platform": "ad",
+            "goodsinfo": "玉兔礼包",
+            "price": 18,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "NC35"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.NC18",
+            "platform": "ios",
+            "goodsinfo": "暖冬瑞雪礼包",
+            "price": 98,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.NC18"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC1007",
+            "platform": "ios",
+            "goodsinfo": "肯德基联动礼包",
+            "price": 128,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC1007"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.CDL20",
+            "platform": "ios",
+            "goodsinfo": "欢聚一堂礼包",
+            "price": 128,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.CDL20"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 64,
+            "free_yuanbao": 12,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.NC14",
+            "platform": "ios",
+            "goodsinfo": "女巫帽",
+            "price": 68,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.NC14"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC57",
+            "platform": "ios",
+            "goodsinfo": "雏鸟之琴礼包",
+            "price": 30,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC57"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC99",
+            "platform": "ios",
+            "goodsinfo": "飞蛾装扮礼包",
+            "price": 68,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC99"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "CDL10",
+            "platform": "ad",
+            "goodsinfo": "美好时光礼包",
+            "price": 68,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "CDL10"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 34,
+            "free_yuanbao": 5,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC54",
+            "platform": "ad",
+            "goodsinfo": "周年庆电吉他礼包",
+            "price": 198,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "SNC54"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 99,
+            "free_yuanbao": 16,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC69",
+            "platform": "ad",
+            "goodsinfo": "奔离远行服饰礼包",
+            "price": 68,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "SNC69"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC102",
+            "platform": "ios",
+            "goodsinfo": "暖冬夹棉斗篷礼包",
+            "price": 98,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC102"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "CDL20",
+            "platform": "ad",
+            "goodsinfo": "欢聚一堂礼包",
+            "price": 128,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "CDL20"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 64,
+            "free_yuanbao": 12,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC73",
+            "platform": "ad",
+            "goodsinfo": "球赛礼包",
+            "price": 98,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "SNC73"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC48",
+            "platform": "ios",
+            "goodsinfo": "海龟斗篷礼包",
+            "price": 98,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC48"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC56",
+            "platform": "ad",
+            "goodsinfo": "音韵吉他礼包",
+            "price": 98,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "SNC56"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC57",
+            "platform": "ad",
+            "goodsinfo": "雏鸟之琴礼包",
+            "price": 30,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "SNC57"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.GC02",
+            "platform": "ios",
+            "goodsinfo": "苹果礼包码2",
+            "price": 0,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.GC02"
+            },
+            "channel_goodstypes": {
+                "app_store": 4
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "NC1001",
+            "platform": "ad",
+            "goodsinfo": "清香粽叶礼包",
+            "price": 98,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "NC1001"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 15,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC105",
+            "platform": "ios",
+            "goodsinfo": "金鳞耳坠礼包",
+            "price": 12,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC105"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC113",
+            "platform": "ios",
+            "goodsinfo": "大耳狗抱枕礼包",
+            "price": 98,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC113"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC43",
+            "platform": "ios",
+            "goodsinfo": "年年有鱼礼包",
+            "price": 12,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC43"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC45",
+            "platform": "ad",
+            "goodsinfo": "情人小船礼包",
+            "price": 128,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "SNC45"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC51",
+            "platform": "ad",
+            "goodsinfo": "凯旋手碟礼包",
+            "price": 128,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "SNC51"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC62",
+            "platform": "ad",
+            "goodsinfo": "皮皮猫礼包",
+            "price": 68,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "SNC62"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SPASSP3",
+            "platform": "ios",
+            "goodsinfo": "礼遇卡分享包",
+            "price": 128,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SPASSP3"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC46",
+            "platform": "ad",
+            "goodsinfo": "优雅小憩茶桌礼包",
+            "price": 128,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "SNC46"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 35,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC103",
+            "platform": "ad",
+            "goodsinfo": "龙鳞束身长袍礼包",
+            "price": 68,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "huawei": "SNC103",
+                "netease": "SNC103"
+            },
+            "channel_goodstypes": {
+                "huawei": 0,
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC76",
+            "platform": "ios",
+            "goodsinfo": "保暖雪人斗篷礼包",
+            "price": 98,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC76"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC68",
+            "platform": "ad",
+            "goodsinfo": "欧若拉之翼礼包",
+            "price": 168,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "SNC68"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.NC36",
+            "platform": "ios",
+            "goodsinfo": "巫树犄角礼包",
+            "price": 68,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.NC36"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC93",
+            "platform": "ios",
+            "goodsinfo": "时尚爱心墨镜礼包",
+            "price": 30,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC93"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC104",
+            "platform": "ios",
+            "goodsinfo": "盘龙围巾斗篷礼包",
+            "price": 98,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC104"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC60",
+            "platform": "ad",
+            "goodsinfo": "水母肩饰",
+            "price": 18,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "SNC60"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC106",
+            "platform": "ios",
+            "goodsinfo": "浪漫流星斗篷礼包",
+            "price": 118,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC106"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC42",
+            "platform": "ios",
+            "goodsinfo": "雪花发夹礼包",
+            "price": 12,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC42"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "NC00",
+            "platform": "ad",
+            "goodsinfo": "创始人礼包",
+            "price": 30,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "NC00"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 15,
+            "free_yuanbao": 4,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC1004",
+            "platform": "ad",
+            "goodsinfo": "夏日有友礼包",
+            "price": 68,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "huawei": "SNC1004",
+                "netease": "SNC1004"
+            },
+            "channel_goodstypes": {
+                "huawei": 0,
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC76",
+            "platform": "ad",
+            "goodsinfo": "保暖雪人斗篷礼包",
+            "price": 98,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "SNC76"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.CDL10",
+            "platform": "ios",
+            "goodsinfo": "美好时光礼包",
+            "price": 68,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.CDL10"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 34,
+            "free_yuanbao": 5,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC113",
+            "platform": "ad",
+            "goodsinfo": "大耳狗抱枕礼包",
+            "price": 98,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "huawei": "SNC113",
+                "netease": "SNC113"
+            },
+            "channel_goodstypes": {
+                "huawei": 0,
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC88",
+            "platform": "ios",
+            "goodsinfo": "跃动跑鞋礼包",
+            "price": 45,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC88"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC73",
+            "platform": "ios",
+            "goodsinfo": "球赛礼包",
+            "price": 98,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC73"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC83",
+            "platform": "ios",
+            "goodsinfo": "自然之声礼包",
+            "price": 30,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC83"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC49",
+            "platform": "ad",
+            "goodsinfo": "彩虹耳饰礼包",
+            "price": 18,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "SNC49"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC109",
+            "platform": "ios",
+            "goodsinfo": "荷叶伞礼包",
+            "price": 98,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC109"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC58",
+            "platform": "ios",
+            "goodsinfo": "彩虹耳机礼包",
+            "price": 68,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC58"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "NC11",
+            "platform": "ad",
+            "goodsinfo": "中国绊爱套装礼包",
+            "price": 128,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "NC11"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "NC37",
+            "platform": "ad",
+            "goodsinfo": "疯女巫长裙礼包",
+            "price": 68,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "NC37"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC101",
+            "platform": "ios",
+            "goodsinfo": "雪人暖心靴礼包",
+            "price": 45,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC101"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC90",
+            "platform": "ios",
+            "goodsinfo": "夏日凉鞋礼包",
+            "price": 68,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC90"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC61",
+            "platform": "ad",
+            "goodsinfo": "皮皮猫装扮礼包",
+            "price": 128,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "SNC61"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC1004",
+            "platform": "ios",
+            "goodsinfo": "夏日有友礼包",
+            "price": 68,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC1004"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC1006",
+            "platform": "ios",
+            "goodsinfo": "古典音乐桌椅礼包",
+            "price": 128,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC1006"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "NC01",
+            "platform": "ad",
+            "goodsinfo": "合伙人礼包",
+            "price": 198,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "NC01"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 99,
+            "free_yuanbao": 19,
+            "extra": {}
+        },
+        {
+            "goodsid": "SPASSP3",
+            "platform": "ad",
+            "goodsinfo": "礼遇卡分享包",
+            "price": 128,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "SPASSP3"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC64",
+            "platform": "ios",
+            "goodsinfo": "奔离远行发型礼包",
+            "price": 18,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC64"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC65",
+            "platform": "ios",
+            "goodsinfo": "欧若拉之声",
+            "price": 98,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC65"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC80",
+            "platform": "ad",
+            "goodsinfo": "野餐礼包",
+            "price": 128,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "netease": "SNC80"
+            },
+            "channel_goodstypes": {
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.NC28",
+            "platform": "ios",
+            "goodsinfo": "多彩绒绒帽礼包",
+            "price": 68,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.NC28"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC112",
+            "platform": "ios",
+            "goodsinfo": "大耳狗装扮礼包",
+            "price": 98,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC112"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC92",
+            "platform": "ios",
+            "goodsinfo": "时尚火焰墨镜礼包",
+            "price": 18,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC92"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC90",
+            "platform": "ad",
+            "goodsinfo": "夏日凉鞋礼包",
+            "price": 68,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "huawei": "SNC90",
+                "netease": "SNC90"
+            },
+            "channel_goodstypes": {
+                "huawei": 0,
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        }
+    ]
+}
