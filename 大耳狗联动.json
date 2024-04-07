@@ -1,0 +1,85 @@
+{
+    "code": 200,
+    "subcode": 1,
+    "status": "ok",
+    "product_list": [
+        {
+            "goodsid": "SNC115",
+            "platform": "ad",
+            "goodsinfo": "大耳狗服饰礼包",
+            "price": 98,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "huawei": "SNC115",
+                "netease": "SNC115"
+            },
+            "channel_goodstypes": {
+                "huawei": 0,
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC114",
+            "platform": "ad",
+            "goodsinfo": "迷你大耳狗发饰礼包",
+            "price": 45,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "huawei": "SNC114",
+                "netease": "SNC114"
+            },
+            "channel_goodstypes": {
+                "huawei": 0,
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "SNC112",
+            "platform": "ad",
+            "goodsinfo": "大耳狗装扮礼包",
+            "price": 98,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "huawei": "SNC112",
+                "netease": "SNC112"
+            },
+            "channel_goodstypes": {
+                "huawei": 0,
+                "netease": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        },
+        {
+            "goodsid": "com.netease.sky.SNC113",
+            "platform": "ios",
+            "goodsinfo": "大耳狗抱枕礼包",
+            "price": 98,
+            "currency": "CNY",
+            "gold": 1,
+            "channel_goodsids": {
+                "app_store": "com.netease.sky.SNC113"
+            },
+            "channel_goodstypes": {
+                "app_store": 0
+            },
+            "ratios": {},
+            "pay_yuanbao": 0,
+            "free_yuanbao": 0,
+            "extra": {}
+        }
+    ]
+}
